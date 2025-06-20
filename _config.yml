@@ -5,7 +5,7 @@ minima:
     - about.md
     - work.md
     - contact.md
-    - test_shiny.html
+    - test_shiny.md
   social_links:
     url: https://www.linkedin.com/in/natasha-koussa-5a585522/
     title: LinkedIn
