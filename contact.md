@@ -1,6 +1,6 @@
 ---
 layout: default
-name: Contact
+title: Contact
 ---
 
 This is where contact will go.
