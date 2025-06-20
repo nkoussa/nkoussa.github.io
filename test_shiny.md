@@ -2,4 +2,4 @@
 title: Test
 ---
 
-{% include docs/index.html %}
+{% include docs/shiny.html %}
