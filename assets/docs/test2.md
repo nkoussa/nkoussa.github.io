@@ -2,4 +2,4 @@
 title: Test2
 ---
 
-{% include ./index.html %}
+{% include_relative index.html %}
