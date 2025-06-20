@@ -5,11 +5,13 @@ minima:
     - about.md
     - work.md
     - contact.md
+  social_links:
+    url: https://www.linkedin.com/in/natasha-koussa-5a585522/
+    title: LinkedIn
 
 
 author:
   name: Natasha Koussa
+  email: natasha.c.koussa@gmail.com
 
-social_links:
-  url: https://www.linkedin.com/in/natasha-koussa-5a585522/
-  title: LinkedIn
+
