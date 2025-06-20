@@ -2,4 +2,4 @@
 title: Test2
 ---
 
-{% include_relative index.html %}
+{% include_relative shiny2.html %}
