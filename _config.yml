@@ -18,6 +18,7 @@ minima:
     - title: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/natasha-koussa-5a585522/"
+  hide_site_feed_link: true
 
 title: Natasha Koussa
 
