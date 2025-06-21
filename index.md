@@ -3,4 +3,4 @@
 
 Testing index.
 
-[![Work]({{ site.baseurl }}/images/index_work.png)]({{ site.baseurl }}{% link /work.html %})
+[![Work]({{ site.baseurl }}/images/index_work.png)]({% link work.md %})
