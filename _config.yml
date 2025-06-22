@@ -9,8 +9,8 @@ minima:
   nav_pages:
     - about.md
     - work.md
+    - personal.md
     - contact.md
-    - assets/docs/test2.md
   social_links:
     - title: GitHub
       icon: github
