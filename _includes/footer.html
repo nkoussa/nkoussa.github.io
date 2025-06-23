@@ -3,12 +3,16 @@
 <footer class="site-footer h-card">
   <data class="u-url" value="{{ '/' | relative_url }}"></data>
 
-  <div>
-    {%- include social.html -%}
+  <div style="display: flex; justify-content: center">
+    <div style="float: right"
+      {%- include social.html -%}
+    </div>
+    <div style="float:left">
       <ul class="contact-list">
       <li class="p-name">{{ site.author.name | escape }}</li>
       <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
       </ul>
+    </div>
   </div>
 
 </footer>
