@@ -4,21 +4,17 @@
   <data class="u-url" value="{{ '/' | relative_url }}"></data>
 
   <div style="display: flex; justify-content: space-around">
-    <div>
-      {%- include social.html -%}
-    </div>
-    <div>
-      {%- if site.author %}
-        <ul class="contact-list">
-          {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
-        </ul>
+    {%- include social.html -%}
+    {%- if site.author %}
+      <ul class="contact-list">
+      {% if site.author.name -%}
+        <li class="p-name">{{ site.author.name | escape }}</li>
+      {% endif -%}
+      {% if site.author.email -%}
+        <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
       {%- endif %}
-    </div>
+      </ul>
+    {%- endif %}
   </div>
 
 </footer>
