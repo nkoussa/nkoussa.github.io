@@ -4,9 +4,10 @@
   <data class="u-url" value="{{ '/' | relative_url }}"></data>
 
   <div style="width: 70%; overflow: hidden;">
-
     <div style="width: 250px; float: left;">
-      <div class="footer-col">
+      {%- include social.html -%}
+    </div>
+    <div style="margin-left: 620px;">
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
@@ -17,13 +18,7 @@
           {%- endif %}
         </ul>
       {%- endif %}
-      </div>
     </div>
-
-    <div style="margin-left: 620px;">
-      {%- include social.html -%}
-    </div>
-
   </div>
 
 </footer>
