@@ -3,11 +3,11 @@
 <footer class="site-footer h-card">
   <data class="u-url" value="{{ '/' | relative_url }}"></data>
 
-  <div style="width: 70%; overflow: hidden;">
-    <div style="width: 250px; float: left;">
+  <div style="display: flex; justify-content: space-around">
+    <div>
       {%- include social.html -%}
     </div>
-    <div style="margin-left: 620px;">
+    <div>
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
