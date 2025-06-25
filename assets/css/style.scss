@@ -6,6 +6,10 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
+.nav-item {
+  color: $text-color;
+}
+
 /* The dropdown container */
 .dropdown {
   float: right;
