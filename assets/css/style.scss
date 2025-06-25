@@ -17,12 +17,12 @@
 }
 
 /* Dropdown button */
-.dropdown .dropbtn {
+.nav-item .dropbtn {
   color: $text-color;
 }
 
 /* Add a red background color to navbar links on hover */
-.dropdown:hover .dropbtn {
+.nav-item:hover .dropbtn {
   background-color: #ddd;
 }
 
@@ -52,6 +52,6 @@
 }
 
 /* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {
+.nav-item:hover .dropdown-content {
   display: block;
 }
