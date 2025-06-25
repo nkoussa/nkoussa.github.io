@@ -1,0 +1,17 @@
+<div class="nav-items">
+  {%- for path in include.paths -%}
+  {%- assign hyperpage = site.pages | where: "path", path | first -%}
+  {%- if hyperpage.title %}
+  <a class="nav-item" href="{{ hyperpage.url | relative_url }}">{{ hyperpage.title | escape }}</a>
+  {%- endif -%}
+  {%- endfor %}
+  <div class="dropdown">
+    <button class="dropbtn">Professional Work
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Link 1</a>
+      <a href="#">Link 2</a>
+      <a href="#">Publications</a>
+    </div>
+</div>
