@@ -7,7 +7,7 @@
   "minima/initialize";
 
 .small-footer {
-  border-top-style: solid;
+  position: relative;
   border-top: 1px solid #000;
   padding: 10px 0;
 }
@@ -28,6 +28,7 @@
   float: right;
   overflow: hidden;
   width: max-content;
+  position: relative;
 }
 
 /* Dropdown button */
