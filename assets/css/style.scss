@@ -7,7 +7,8 @@
   "minima/initialize";
 
 .small-footer {
-  border-top: 1px solid red;
+  border-top: 1px solid $border-color-01;
+  padding: $spacing-unit 0;
 }
 
 .nav-item {
@@ -26,7 +27,6 @@
   float: right;
   overflow: hidden;
   width: max-content;
-  position: relative;
 }
 
 /* Dropdown button */
