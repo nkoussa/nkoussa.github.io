@@ -6,6 +6,11 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
+.small-footer {
+  border-top: 1px solid $border-color-01;
+  padding: 10px 0;
+}
+
 .nav-item {
   color: $text-color;
 }
