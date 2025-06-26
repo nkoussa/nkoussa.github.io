@@ -8,7 +8,7 @@
 
 .small-footer {
   border-top: 1px solid $border-color-01;
-  padding: $spacing-unit 0;
+  padding: 15px 0;
 }
 
 .nav-item {
@@ -47,8 +47,7 @@
   background-color: #f9f9f9;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
-  width: 100%;
-  height: min-content;
+  padding-right: 50;
 }
 
 /* Links inside the dropdown */
