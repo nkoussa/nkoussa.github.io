@@ -7,9 +7,8 @@
   "minima/initialize";
 
 .small-footer {
-  position: relative;
-  border-top: 1px solid #000;
-  padding: 10px 0;
+  border-top: 1px solid red;
+  padding: 30px 0;
 }
 
 .nav-item {
@@ -49,7 +48,10 @@
   background-color: #f9f9f9;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
-  width: 100%;
+  top: 0; 
+  bottom: 0;
+  left: 0; 
+  right: 0;
 }
 
 /* Links inside the dropdown */
