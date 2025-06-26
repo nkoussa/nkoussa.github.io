@@ -10,6 +10,14 @@
   color: $text-color;
 }
 
+.nav-items a {
+  float: right;
+  color: red;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
 /* The dropdown container */
 .dropdown {
   float: right;
@@ -21,11 +29,8 @@
   font-size: 16px;  
   border: none;
   outline: none;
-  color: white;
-  padding: 14px 16px;
   background-color: inherit;
   font-family: inherit;
-  margin: 0;
   color: $text-color;
 }
 
@@ -38,7 +43,6 @@
   min-width: 50px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
-  padding: 14px 16px;
 }
 
 /* Links inside the dropdown */
