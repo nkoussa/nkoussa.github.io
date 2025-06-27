@@ -1,5 +1,4 @@
 ---
-layout: standard
 ---
 
 Testing index.
