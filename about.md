@@ -2,12 +2,11 @@
 title: About
 ---
 
-This is the page where about me will go.
 
-## Professional Interests
+### Professional Interests
 
 
-## Professional Habits and Values
+### Professional Habits and Values
 
 
 
