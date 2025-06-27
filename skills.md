@@ -15,11 +15,11 @@ title: Skills
 * Statistical analysis 
 
 ### Wet-lab
+* Next-Generation Sequencing preparation, including custom sequencing methods (OF-seq, HydEN-seq, END-seq)
+* CRISPR/Cas9 knockout screens
 * Primary and immortal cell culture (proliferation assays, transfection, transduction, CRISPR/Cas9)
 * Standard molecular biology techniques (DNA/RNA extraction, PCR, cloning, qRT-PCR, etc)
 * Viral vector cloning and delivery (lentivirus, retrovirus, adeno-associated virus)
-* Next-Generation Sequencing preparation, including custom sequencing methods (OF-seq, HydEN-seq, END-seq)
-* CRISPR/Cas9 knockout screens
 * Western & Southern blotting, immunoprecipitation
 * Flow cytometry and analysis, including multi-color
 * Immunofluorescence, comet assays, and microscopy
