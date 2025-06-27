@@ -7,15 +7,11 @@
   "minima/initialize";
 
 .wrapper {
+  max-width: 100vw;
   width: 95vw;
   margin: 0 auto;
   padding: 0 0;
   @extend %clearfix;
-
-  @media screen and (max-width: $on-medium) {
-    padding-right: $spacing-unit * 0.6;
-    padding-left: $spacing-unit * 0.6;
-  }
 }
 
 .wrapper-wide {
