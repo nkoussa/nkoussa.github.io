@@ -7,9 +7,9 @@
   "minima/initialize";
 
 .wrapper {
-  width: 1200px;
+  width: 95vw;
   margin: 0 auto;
-  padding: 0 $spacing-unit;
+  padding: 0 0;
   @extend %clearfix;
 
   @media screen and (max-width: $on-medium) {
