@@ -6,6 +6,18 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
+.wrapper {
+  width: 200px;
+  margin: 0 auto;
+  padding: 0 $spacing-unit;
+  @extend %clearfix;
+
+  @media screen and (max-width: $on-medium) {
+    padding-right: $spacing-unit * 0.6;
+    padding-left: $spacing-unit * 0.6;
+  }
+}
+
 .wrapper-wide {
   max-width: 1200px;
   margin: 0 auto;
