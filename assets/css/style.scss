@@ -6,6 +6,8 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
+$content-width:    1200px !default;
+
 .small-footer {
   border-top: 1px solid $border-color-01;
   padding: 15px 0;
