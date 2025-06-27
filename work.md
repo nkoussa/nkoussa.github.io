@@ -11,6 +11,8 @@ title: Work History
 
 **What I learned:**
 
+**Accomplishments:**
+
 You can view the documentation for the IMPROVE project [here](/https://jdacs4c-improve.github.io/docs/).
 
 Publications from this work can be found [here]({% link pubs.md %}#IMPROVE Project)
@@ -23,6 +25,7 @@ Publications from this work can be found [here]({% link pubs.md %}#IMPROVE Proje
 
 **What I learned:**
 
+**Accomplishments:**
 * Identified targets for synthetic lethal interactions with transposon activation in cancer by mining multi-omic datasets
 * Identified mechanisms of resistance to WRN inhibition in cancers with microsatellite instability
 * Established protocols for execution and analysis of CRISPR/Cas9 knockout screens
@@ -38,6 +41,7 @@ Publications from this work can be found [here]({% link pubs.md %}#nussenzweig-l
 
 **What I learned:**
 
+**Accomplishments:**
 * Determined the role of limiting concentrations of lagging strand polymerases on Okazaki fragment synthesis
 * Created custom scripts and pipelines for integration of sequencing analysis with published datasets
 * Optimized a range of techniques, from CRISPR/Cas9 genome engineering to novel sequencing-based methods, as well as computational analysis
@@ -52,6 +56,8 @@ Publications from this work can be found [here]({% link pubs.md %}#smith-lab).
 **Why I joined:** 
 
 **What I learned:**
+
+**Accomplishments:**
 * Examined inhibition of DNA repair, particularly homologous recombination, as a radiosensitization strategy in preclinical models of head and neck cancer
 * Investigated resistance to PI3K inhibitors, receptor tyrosine kinase inhibitors, and estrogen receptor inhibitors leading to high impact publications
 * Independently managed all aspects related to day-to-day functioning of a highly productive lab, including equipment, supplies, reagents, animals, and licenses, as well as mentoring and supervising multiple junior technicians.
