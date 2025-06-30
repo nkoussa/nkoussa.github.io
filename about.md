@@ -3,12 +3,6 @@ title: About
 ---
 
 
-### Professional Interests
-
-
-### Professional Habits and Values
-
-
 
 ### Education
 PhD, Biology
