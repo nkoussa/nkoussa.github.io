@@ -5,13 +5,17 @@ title: Work History
 
 
 ### IMPROVE Project @ Frederick National Laboratory
-**What I did:**
-
-**Why I joined:** 
-
-**What I learned:**
 
 **Accomplishments:**
+* Drove the final development of the IMPROVE project, a benchmarking framework for supervised learning on tabular data, with an initial focus on precision oncology applications
+* Designed and implemented major architectural changes to the improvelib Python package to enhance capabilities and accommodate varying applications
+* Authored user and developer documentation for improvelib and associated benchmarking workflows, enabling ease of adoption
+* Served as the domain expert in cancer biology, assessing model inputs and predictions for consistency with known biological mechanisms and therapeutic relevance
+* Assessed model generalization across heterogeneous drug response datasets, evaluating whether models learn meaningful biological signals, and explored the use of synthetic data to enhance feature utilization
+* Evaluated and curated single-agent and combination drug response AI/ML models into IMPROVE, ensuring reproducibility and compliance with benchmarking criteria
+* Developed modular, end-to-end workflows for model evaluation, enabling consistent comparison across datasets and model types
+* Executed and validated machine learning models using the CoderData benchmark dataset to assess performance and generalizability
+
 
 You can view the documentation for the IMPROVE project [here](/https://jdacs4c-improve.github.io/docs/).
 
@@ -19,11 +23,6 @@ Publications from this work can be found [here]({% link pubs.md %}#IMPROVE Proje
 
 
 ### Nussenzweig Lab @ National Cancer Institute
-**What I did:**
-
-**Why I joined:** 
-
-**What I learned:**
 
 **Accomplishments:**
 * Identified targets for synthetic lethal interactions with transposon activation in cancer by mining multi-omic datasets
@@ -35,11 +34,6 @@ Publications from this work can be found [here]({% link pubs.md %}#nussenzweig-l
 
 
 ### Smith Lab @ New York University
-**What I did:**
-
-**Why I joined:** 
-
-**What I learned:**
 
 **Accomplishments:**
 * Determined the role of limiting concentrations of lagging strand polymerases on Okazaki fragment synthesis
@@ -51,11 +45,6 @@ Publications from this work can be found [here]({% link pubs.md %}#smith-lab).
 
 
 ### Baselga Lab @ Memorial Sloan Kettering Cancer Center and Massachusetts General Hospital
-**What I did:**
-
-**Why I joined:** 
-
-**What I learned:**
 
 **Accomplishments:**
 * Examined inhibition of DNA repair, particularly homologous recombination, as a radiosensitization strategy in preclinical models of head and neck cancer
