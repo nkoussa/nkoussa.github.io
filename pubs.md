@@ -7,6 +7,15 @@ title: Publications
 ## IMPROVE Project
 You can view the documentation for the IMPROVE project [here](/https://jdacs4c-improve.github.io/docs/).
 
+A cross-model benchmark dataset for drug discovery in cancer.  
+*In preparation*  
+*Jacobson J, **Koussa N**, Jones SE, Mahlich Y, Fore R, Im A, Zhu Y, Weil R, Gosline S.*
+
+Benchmarking community drug response prediction models: datasets, models, tools, and metrics for cross-dataset generalization analysis.  
+*Briefings in Bioinformatics, In revision*  
+*Partin A, Vasanthakumari P, Narykov O, Wilke A, **Koussa N**, Jones SE, Zhu Y, Overbeek JC, Jain R, Fernando GD, Sanchez-Villalobos C, Garcia-Cardona C, Mohd-Yusof J, Chia N, Wozniak JM, Ghosh S, Pal R, Brettin TS, Weil R, Stevens RL.*  
+[Arxiv](https://arxiv.org/abs/2503.14356)
+
 The Hallmarks of Predictive Oncology  
 *Cancer Discovery, 2025*  
 *Singhal A, Zhao X, Wall P, So E, Calderini G, Partin A, **Koussa N**, Vasanthakumari P, Narykov O, Zhu Y, Jones SE, Abbas-Aghababazadeh F, Kadambat Nair S, Bélisle-Pipon JC, Jayaram A, Parker BA, Yeung KT, Griffiths JI, Weil R, Nath A, Haibe-Kains B, Ideker T.*  
